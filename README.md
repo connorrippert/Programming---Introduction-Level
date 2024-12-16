@@ -26,12 +26,12 @@ The project involves:
    ```
 
 2. **Download the Code**:  
-   Save the project code as a Python file, e.g., `stock_price_prediction.py`.
+   Save the project code as a Python file, e.g., `RNN_LSTM_stock_price_prediction.py`.
 
 3. **Run the Script**:  
    Execute the script in your terminal or preferred IDE (e.g., VS Code, PyCharm) using Python:  
    ```bash
-   python stock_price_prediction.py
+   python RNN_LSTM_stock_price_prediction.py
    ```
 
 4. **Output**:  
