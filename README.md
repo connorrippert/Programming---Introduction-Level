@@ -23,4 +23,5 @@ This project was carried out with the help of the following sources:
 
 1. Recurrent Neural Networks (RNN) - Deep Learning w/ Python, TensorFlow & Keras p.7, https://www.youtube.com/watch?v=BSpXCRTOLJA
 2. https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-3. ChatGPT
+3. https://www.datacamp.com/tutorial/lstm-python-stock-market
+4. ChatGPT
