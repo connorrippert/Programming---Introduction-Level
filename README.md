@@ -17,6 +17,33 @@ The project involves:
 - Calculating and visualizing evaluation metrics, specifically Mean Squared Error (MSE), for both models.
 - Finally, a bar chart illustrates the comparison of MSE for training and testing data, providing insights into the relative strengths and weaknesses of RNNs and LSTMs for this financial forecasting task.
 
+### **How to Run the Code**
+
+1. **Install Required Libraries**:  
+   Ensure you have the necessary Python libraries installed. Run the following command in your terminal:  
+   ```bash
+   pip install numpy pandas matplotlib scikit-learn yfinance keras tensorflow
+   ```
+
+2. **Download the Code**:  
+   Save the project code as a Python file, e.g., `stock_price_prediction.py`.
+
+3. **Run the Script**:  
+   Execute the script in your terminal or preferred IDE (e.g., VS Code, PyCharm) using Python:  
+   ```bash
+   python stock_price_prediction.py
+   ```
+
+4. **Output**:  
+   - The program fetches Apple's stock price data, trains RNN and LSTM models, and generates predictions.  
+   - Visualizations for actual vs. predicted stock prices, training loss, and model evaluation metrics (MSE) will be displayed.  
+
+5. **Requirements**:  
+   - Python 3.x  
+   - An active internet connection to fetch stock data using Yahoo Finance (`yfinance`).  
+
+Make sure your Python environment is properly configured, and enjoy exploring the model results!
+
 **Resources:**
 
 This project was carried out with the help of the following sources: 
