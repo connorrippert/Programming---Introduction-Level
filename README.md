@@ -1,6 +1,6 @@
 # Comparing RNN and LSTM for Predicting Apple Stock Price 
 
-Project was carried out by Connor Rippert
+Project was carried out by Connor Rippert (21-619-392)
 
 **Project Description:**
 
