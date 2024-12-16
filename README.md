@@ -10,12 +10,12 @@ In this case, historical stock price data for Apple Inc. (AAPL) is used to train
 
 The project involves:
 
-Fetching historical stock price data from Yahoo Finance.
-Preprocessing the data to create time-series input-output pairs.
-Building and training both RNN and LSTM models.
-Comparing their performance by visualizing training loss and evaluating predictions on unseen test data.
-Calculating and visualizing evaluation metrics, specifically Mean Squared Error (MSE), for both models.
-Finally, a bar chart illustrates the comparison of MSE for training and testing data, providing insights into the relative strengths and weaknesses of RNNs and LSTMs for this financial forecasting task.
+- Fetching historical stock price data from Yahoo Finance.
+- Preprocessing the data to create time-series input-output pairs.
+- Building and training both RNN and LSTM models.
+- Comparing their performance by visualizing training loss and evaluating predictions on unseen test data.
+- Calculating and visualizing evaluation metrics, specifically Mean Squared Error (MSE), for both models.
+- Finally, a bar chart illustrates the comparison of MSE for training and testing data, providing insights into the relative strengths and weaknesses of RNNs and LSTMs for this financial forecasting task.
 
 **Resources:**
 
